@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Joyal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Joyal
+- 👀 I’m interested in developing your imagination
+- 🌱 I’m currently learning javaScript 
+- 💞️ I’m looking to collaborate on your imagination 
 - 📫 You can reach me joyaljoshy817@gmail.com 
 
 <!---
